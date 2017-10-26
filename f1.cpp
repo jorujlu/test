@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(int argc, char const *argv[]) {
-  cout << "habha" << endl;
+  string a = "asdasd";
+  cout << a << endl;
   return 0;
 }
